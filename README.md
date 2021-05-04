@@ -1,2 +1,4 @@
-# day trading vs buy and hold
- Analysing my SU trades against Buy and Hold
+# Day trading vs Buy & Hold
+ Analyzing my SU trades against Buy and Hold
+
+> Please don’t roast me over my paper hands 📃✋ vs 💎✋
